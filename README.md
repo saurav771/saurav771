@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saurav771
-- 👀 I’m interested in Learning
+- 👀 And I’m a learner
 
 <!---
 saurav771/saurav771 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
